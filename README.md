@@ -1,8 +1,10 @@
   
 🌧️ Rainfall Nowcasting using LSTM  
+
 Welcome to the Rainfall Nowcasting using LSTM project! This repository contains the code and resources for predicting short-term rainfall using a Long Short-Term Memory (LSTM) neural network. The model aims to forecast rainfall intensity based on historical weather data, providing valuable insights for meteorological predictions and disaster preparedness.  
 
 🌟 Project Overview  
+
 Objective  
 Rainfall nowcasting, the prediction of precipitation over short time intervals, is of paramount importance for numerous sectors including agriculture, water resource management, and disaster preparedness. Accurate nowcasting enables timely interventions, minimizing the adverse effects of unexpected weather changes. Traditional methods of rainfall prediction often fall short in providing the precision required for effective nowcasting, especially in regions with complex weather patterns.  
 
